@@ -1,0 +1,19 @@
+{
+  "name": "gitsemver",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizinur/gitSemver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizinur/gitSemver/issues"
+  },
+  "homepage": "https://github.com/faizinur/gitSemver#readme"
+}
